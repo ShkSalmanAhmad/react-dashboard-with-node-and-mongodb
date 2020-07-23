@@ -9,7 +9,7 @@ var assert = require('assert');
  * Connection URI. Update <username>, <password>, and <your-cluster-url> to reflect your cluster.
  * See https://docs.mongodb.com/ecosystem/drivers/node/ for more details
  */
-const uri = "<connection string goes here>";
+const uri = "mongodb+srv://shksalmanahmad:shksalmanahmad@nodelearningreactlogin.lryek.mongodb.net/test";
 // const client = new MongoClient(uri);
 
 /* GET home page. */
